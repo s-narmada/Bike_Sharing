@@ -13,6 +13,8 @@ This case-study is a capstone project of the Google Data Analytics course offere
 
 The goal of this project is to derive actionable insights to convert casual riders of the fictional Cyclistic Bike-Share company into annual members.
 
+## Link:
+file:///C:/Users/narma/OneDrive/Desktop/Projects/CapStone%20Project/CapStone%20Bike_Share%20Project%20in%20R/Bike_Share.html
 
 # Introduction
 Cyclistic developed a successful bike-share program in 2016. Since then, the initiative has grown to include a fleet of 5,824 bicycles that are geotracked and locked into 692 stations throughout Chicago. Bikes can be unlocked at any station and returned to any other in the system at any time.
